@@ -3,6 +3,7 @@ import { getDataAPI } from '../../utils/fetchData'
 
 export const DISCOVER_TYPES = {
     LOADING: 'LOADING_DISCOVER',
+    
     GET_POSTS: 'GET_DISCOVER_POSTS',
     UPDATE_POST: 'UPDATE_DISCOVER_POST'
 }
